@@ -13,10 +13,10 @@
 
 # 차별성
 1.NPC랜덤생성   
-https://github.com/user-attachments/assets/f6b5e0b2-9cac-44d4-86ad-65ee8c4d9d8e
+![미디어](https://github.com/user-attachments/assets/c80f9588-8a2d-4c64-a695-1fa7a3ee5984)   
 대부분의 FPS게임은 특정 위치에서 적NPC가 스폰됩니다. 하지만, 해당 게임은 스테이지의 랜덤한 위치에 적NPC가 스폰됩니다.   
    
 2.오브젝트 추가   
-https://github.com/user-attachments/assets/270ada58-ca15-4655-8aff-6c57c905f430
+![오브젝트+추가](https://github.com/user-attachments/assets/f1d4873d-e9a0-46b4-a746-2c358965ffb8)   
 기름통을 터트려 적NPC를 공격할 수 있게하여 공격의 다양성을 추가하였습니다.   
 또한 파란 상자나 사격 표적을 배치하여 플레이어가 활용할 수 있도록 했습니다.
